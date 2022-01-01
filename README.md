@@ -1,21 +1,18 @@
-# PDF invoice data to excel table
+### PDF invoice data to excel table
+----------
 
-developed as a custom automated solution to extract data for pdf invoices of scotia bank and placing into excel table as a yearly report report.
+developed as a custom automated solution to extract data for pdf invoices of scotia bank and place them into an excel table as a yearly report.
 
 ## Libraries used:
-- tkinter
-- camelot
-- pandas
+- Tkinter
+- Camelot
+- Pandas
+
 
 ## How to use it:
+when the script is run, choose a folder containing PDF files. An excel file will be generated in the same folder.
 
-when the script is run, chose a folder containing PDF files. An excel file will be generated in the same folder.
-__________
+-------------
 
-note: initial version works with spanish language only
-
-
-
-
-
+note: initial version works with the Spanish language only
 
